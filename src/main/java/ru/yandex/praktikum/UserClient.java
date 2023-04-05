@@ -8,6 +8,7 @@ import static java.net.HttpURLConnection.HTTP_OK;
 import static org.hamcrest.Matchers.equalTo;
 import static ru.yandex.praktikum.UrlEndpointsConst.*;
 
+//rrrrrrrrrrrrrrrrrrrrrrrrrr
 public class UserClient {
 
     @Step("запрос на авторизацию существующего пользователя")
