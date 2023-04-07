@@ -1,5 +1,5 @@
 ## Diplom_3 web-приложение
-* Java 11;
+* 111111Java 11;
 * JUnit 4.12;
 * Apache Maven 3.8.5;
 * Rest Assured 4.4.0
