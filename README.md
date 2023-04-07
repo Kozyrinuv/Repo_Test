@@ -10,4 +10,4 @@
 * Burger
 * Ingredient
 * IngredientType
-* Процент покрытия 83%
+* Covered 83%
